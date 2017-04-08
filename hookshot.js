@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var Configstore = require('configstore');
 
 var program = require('commander');

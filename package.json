@@ -1,6 +1,6 @@
 {
-  "name": "hookshot",
-  "version": "1.0.0",
+  "name": "hookshot-cli",
+  "version": "1.0.1",
   "description": "A webhook manager for discord.",
   "main": "hookshot.js",
   "author": "Kaioru",
