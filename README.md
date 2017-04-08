@@ -9,7 +9,6 @@ The OG CLI app for Hookshot, a Discord webhook manager.
 ```shell
 hookshot add <name> <url>
 ```
-Use the -f option to force override existing webhooks of the same name.
 
 ### Removing webhooks
 ```shell
