@@ -9,8 +9,8 @@
     "start": "node hookshot.js"
   },
   "bin": {
-+   "hookshot": "./hookshot.js"
-+ },
+    "hookshot": "./hookshot.js"
+  },
   "dependencies": {
     "commander": "^2.9.0",
     "configstore": "^3.0.0",
