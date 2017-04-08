@@ -2,11 +2,11 @@
   "name": "hookshot-cli",
   "version": "1.0.1",
   "description": "A webhook manager for discord.",
-  "main": "hookshot.js",
+  "main": "cli.js",
   "author": "Kaioru",
   "license": "MIT",
   "scripts": {
-    "start": "node hookshot.js"
+    "start": "node cli.js"
   },
   "dependencies": {
     "commander": "^2.9.0",
